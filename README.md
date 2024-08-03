@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0069-sqrtx) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Binary Search
 |  |
 | ------- |
