@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
