@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
