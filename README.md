@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
