@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -51,10 +53,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
