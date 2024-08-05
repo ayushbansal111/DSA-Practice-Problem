@@ -1,14 +1,15 @@
 class Solution {
 public:
     int fib(int n) {
-        if (n == 0)
-            return 0;
+        // base case
+        if (n <= 1)
+            return n;
+        vector<int> dp(n + 1, -1);
 
-        if (n == 1)
-            return 1;
+        if (dp[n] != -1)
+            return dp[n];
 
-        int ans = fib(n - 1) + fib(n - 2);
-
-        return ans;
+        dp[n] = fib(n - 1) + fib(n - 2);
+        return dp[n];
     }
 };
