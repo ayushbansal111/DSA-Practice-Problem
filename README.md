@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
