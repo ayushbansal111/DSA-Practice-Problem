@@ -1,26 +1,31 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        chars.push_back('\0');
-        string ans;
-        int tmp=0;
-        char tmp2;
-        for(int i=0;i<chars.size()-1;i++){
-            tmp2=chars[i];
-            tmp=1;
-            while(chars[i+1]==tmp2){
-                i++;
-                tmp++;
+        int write = 0; // Position to write the next character in the array
+        int start = 0; // Start position of a group of identical characters
+
+        while (start < chars.size()) {
+            int end = start;
+            // Find the end of the group of identical characters
+            while (end < chars.size() && chars[end] == chars[start]) {
+                end++;
             }
-            ans=ans+tmp2;
-            if(tmp>1){
-                ans=ans+to_string(tmp);
+            
+            // Write the character
+            chars[write++] = chars[start];
+            
+            // If the group size is greater than 1, write the count
+            int count = end - start;
+            if (count > 1) {
+                for (char c : to_string(count)) {
+                    chars[write++] = c;
+                }
             }
+
+            // Move to the next group
+            start = end;
         }
-        chars.clear();
-        for(auto i:ans){
-            chars.push_back(i);
-        }
-        return chars.size();
+
+        return write;
     }
 };
