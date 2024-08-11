@@ -11,9 +11,17 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        //base case
-        if(head == NULL){
-            return NULL;
+ // Check if we have at least k nodes to reverse
+        ListNode* node = head;
+        int count = 0;
+        while (node != NULL && count < k) {
+            node = node->next;
+            count++;
+        }
+        
+        // If we have less than k nodes, return the head as is
+        if (count < k) {
+            return head;
         }
 
         // for k-group
@@ -21,13 +29,6 @@ public:
         ListNode* curr = head;
         ListNode* prev = NULL;
         int cnt = 0;
-
-        // if less than k nodes left
-        ListNode* check = head;
-        for (int i = 0; i < k; ++i) {
-            if (!check) return head; 
-            check = check->next;
-        }
 
         while( curr != NULL && cnt < k){
             next = curr->next;
