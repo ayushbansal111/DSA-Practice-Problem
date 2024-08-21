@@ -1,19 +1,3 @@
-/*
-// Definition for a Node.
-class Node {
-public:
-    int val;
-    Node* next;
-    Node* random;
-
-    Node(int _val) {
-        val = _val;
-        next = NULL;
-        random = NULL;
-    }
-};
-*/
-
 class Solution {
 public:
     void insertattail(Node*& head, Node*& tail, int d) {
@@ -27,7 +11,6 @@ public:
             tail = newNode;
         }
     }
-
     Node* copyRandomList(Node* head) {
         // clone list
         Node* clonehead = NULL;
@@ -39,22 +22,39 @@ public:
             insertattail(clonehead, clonetail, temp->val);
             temp = temp->next;
         }
-        // map
-        unordered_map<Node*, Node*> oldtonew;
+        // add clone list nodes in between original list nodes
+        Node* original = head;
         Node* clone = clonehead;
-        temp = head;
 
-        while (temp != NULL) {
-            oldtonew[temp] = clone;
-            temp = temp->next;
-            clone = clone->next;
+        while (original != NULL && clone != NULL) {
+            Node* next = original->next;
+            original->next = clone;
+            original = next;
+
+            next = clone->next;
+            clone->next = original;
+            clone = next;
         }
+        // random pointer copy
         temp = head;
+        while (temp != NULL) {
+            if (temp->next != NULL) {
+                temp->next->random =
+                    temp->random ? temp->random->next : temp->random;
+            }
+            temp = temp->next->next;
+        }
+        // revert changes
+        original = head;
         clone = clonehead;
 
-        while (temp != NULL) {
-            clone->random = oldtonew[temp->random];
-            temp = temp->next;
+        while (original != NULL && clone != NULL) {
+            original->next = clone->next;
+            original = original->next;
+
+            if (original != NULL) {
+                clone->next = original->next;
+            }
             clone = clone->next;
         }
 
