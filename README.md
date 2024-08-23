@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0948-sort-an-array) |
 ## Hash Table
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0948-sort-an-array) |
 ## Greedy
 |  |
@@ -178,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
