@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0948-sort-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0443-string-compression) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0948-sort-an-array) |
 ## Greedy
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0908-middle-of-the-linked-list) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
