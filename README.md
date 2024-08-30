@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0142-linked-list-cycle-ii) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
