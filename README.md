@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0443-string-compression) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
