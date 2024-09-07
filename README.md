@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -213,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/0085-maximal-rectangle) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushbansal111/DSA-Practice-Problem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
